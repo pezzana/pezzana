@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, mundo! 👋 Soy Tomas Pezzana. 
+- ... 
 
-<!--
-**pezzana/pezzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí
+- 🧑‍💻 Actualmente soy estudiante de ingenieria en sistemas de informacion.
+- 🌱 Por mi cuenta estoy aprendiendo y profundizando sobre **HTML**, **CSS** y **JavaScript**.
 
-Here are some ideas to get you started:
+# ¿Qué encontrarás aquí?
+- Proyectos de práctica.
+- Documentación de mis aprendizajes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Mis datos de contacto
+- 📫 Puedes contactarme en: pezzanatomas5@gmail.com
+- 💼 LinkedIn:  
+
+---
+
+> “El aprendizaje nunca agota la mente.” – Leonardo da Vinci

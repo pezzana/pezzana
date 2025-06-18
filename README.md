@@ -35,29 +35,7 @@
 <p align="center">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pezzana&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
-  <!-- Redes Sociales -->     
-<p align="center">  
-    <a  href="https://www.instagram.com/tomi.pezzana/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-   </a>
 
-  <a  href="https://x.com/pezzana_" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-   </a>
-
-  <a  href="mailto:pezzanatomas5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-   </a>
-
-   <a  href="https://www.linkedin.com/in/tomas-pezzana-b602a236a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-
-   <a  href="https://discord.com/users/tomipe" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-   </a>
-</p>
- 
 <!-- GitHub Stats -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
